@@ -1,0 +1,7 @@
+https://github.com/google-coral/pycoral/releases/download/release-frogfish/tflite_runtime-2.5.0-cp37-cp37m-linux_x86_64.whl
+fastapi
+uvicorn
+pydantic
+cloudpickle
+keras_preprocessing
+wn
